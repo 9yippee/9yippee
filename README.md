@@ -9,14 +9,14 @@
 
 <div align="center">
  <p><b>- KIT Dept. of Computer Engineering
- <p>42서울 준비 중 입니다<p>
+ <p>- 42서울 준비 중 입니다<p>
 </div>
   
 <hr />
 
 <section align="center">
- <h3>🔥 Studying!! 🔥</h3>
- C 공부 중 입니다.
+ <h3>🔥 Studying 🔥</h3>
+ - C 공부 중 입니다.
  <div>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  </div> 
@@ -32,6 +32,7 @@
 
  <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   
  </div>
  <br>
