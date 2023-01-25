@@ -9,7 +9,7 @@
 
 <div align="center">
  <p><b>- KIT Dept. of Computer Engineering
- <p>- 42 Seoul ~<p>
+ <p>- 42 Seoul 9기 <p>
 </div>
   
 <hr />
