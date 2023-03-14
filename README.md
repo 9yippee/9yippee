@@ -17,8 +17,7 @@
 
 <section align="center">
  <h3>🔥 Studying 🔥</h3>
- - C 공부 중 입니다.
- - HTML, CSS, JS 공부 중입니다.
+ - C, HTML, CSS, JS 공부 중입니다.
  <div>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  </div> 
