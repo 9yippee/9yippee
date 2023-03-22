@@ -48,23 +48,9 @@
  
 <div> 
  
- 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gu9210)](https://solved.ac/gu9210)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9yippee)](https://github.com/anuraghazra/github-readme-stats)
 
  
 </div>
 
-
- <!---
- 뱃지 작성 코드
-https://simpleicons.org/?q=rea      <-아이콘 웹주소
- <img src="https://img.shields.io/badge/ - ?style=flat&logo= &logoColor=white"/>
- <img src="https://img.shields.io/badge/이름-색상코드?style=flat&logo=로고명&logoColor=로고색"/>
  
-—>
-
-<!—
-koomin1227/koomin1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-—>
