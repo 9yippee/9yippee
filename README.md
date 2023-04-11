@@ -9,7 +9,7 @@
 
 <div align="center">
  <p><b>- KIT Dept. of Computer Engineering
- <p><b>- KNU Dept. of Architecture
+ <p><b>- KNU Dept. of Architecture & Cvill Engineering
  <p>- 42 Seoul 9기 <p>
 </div>
   
